@@ -84,20 +84,7 @@ def tree_to_str(node, indent=0):
 
 # Sample dataset
 data = [
-    [2, 3, 2, 'No'],
-    [2, 3, 2, 'No'],
-    [1, 3, 2, 'Yes'],
-    [3, 2, 2, 'Yes'],
-    [3, 1, 1, 'Yes'],
-    [3, 1, 1, 'No'],
-    [1, 1, 1, 'Yes'],
-    [2, 2, 2, 'No'],
-    [2, 1, 1, 'Yes'],
-    [3, 2, 1, 'Yes'],
-    [2, 2, 1, 'Yes'],
-    [1, 2, 2, 'Yes'],
-    [1, 3, 1, 'Yes'],
-    [3, 2, 2, 'No']
+    # input dataset
 ]
 
 # Build decision tree
